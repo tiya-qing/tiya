@@ -1,6 +1,6 @@
 # tiya
 data science 
-#About me#
+*About me*
 # hobby
 - piano
 - zitter
